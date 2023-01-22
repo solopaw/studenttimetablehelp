@@ -1,2 +1,0 @@
-# studenttimetablehelp
-For Bundamba ssc
